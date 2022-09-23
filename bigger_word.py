@@ -7,14 +7,14 @@ def bigger_word(w1, w2):
 
     #Recorrer cada letra de w1
     for
-        #Obtener el indice de la letra actual
+        #Obtener el indice de la letra actual en alphabet
 
         #Agregarlo a la suma de la primera palabra
     
 
     #Recorrer cada letra de w2
     for
-        #Obtener el indice de la letra actual
+        #Obtener el indice de la letra actual en alphabet
 
         #Agregarlo a la suma de la segunda palabra
 
